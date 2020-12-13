@@ -1,39 +1,32 @@
 <h2 align="center">👋 Hi! I'm Oskar.</h2>
+<h3 align="center">A passionate Backend developer</h3>
 
-- 🏠 I’m currently living at **Warsaw, Poland** 🇵🇱.
-- 👨‍💻 I’m currently working as a **Senior Ruby Developer**. 
-- 🔭 I’m currently working on **A platform for online gamblings**.
-- 🌱 I’m currently learning **Elixir**
+- 🏠 I’m currently living in **Warsaw, Poland** 🇵🇱
+- 👨‍💻 I’m currently working as a **Senior Ruby Developer**
+- 🔭 I’m currently working on **something cool** 😉
+- 🌱 I’m currently learning **AWS deployment with Terraform and Ansible**
 - 💬 Ask me about **Ruby, web development, technology**
-- ⚡ Fun fact: tea is better than coffee
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janusz.oskar@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oskar.janusz/)
+- ⚡ Fun fact: **Semi Pro Paintball Player**
+- 📫 How to reach me: [Mail](mailto:janusz.oskar@gmail.com)
 
-<span align="center">
-
-### Technologies & Tools
-
-![](https://img.shields.io/badge/ruby-red?style=for-the-badge&logo=ruby)
-![](https://img.shields.io/badge/elixir-blueviolet?style=for-the-badge&logo=elixir)
-
-![](https://img.shields.io/badge/vue-black?style=for-the-badge&logo=vue.js)
-
-![](https://img.shields.io/badge/heroku-black?style=for-the-badge&logo=heroku)
-![](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon)
-![](https://img.shields.io/badge/netlify-black?style=for-the-badge&logo=netlify)
-![](https://img.shields.io/badge/ovh-black?style=for-the-badge&logo=ovh)
-![](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)
-
-![](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
-![](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/CircleCI-black?style=for-the-badge&logo=circleci)
-![](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)
-
-![](https://img.shields.io/badge/stripe-black?style=for-the-badge&logo=stripe)
-![](https://img.shields.io/badge/paypal-black?style=for-the-badge&logo=paypal)
+### Technologies
+<p align="left">
+<img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="rails" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="babel" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="babel" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/heroku/heroku-plain-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original.svg" alt="postgresql" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="babel" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="git" width="80" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/stripe/stripe-ar21.svg" alt="git" width="80" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/paypal/paypal-ar21.svg" alt="git" width="80" height="40"/>
+</p>
 
 ### GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=oskaror&theme=algolia&show_icons=true&count_private=true&hide=stars)
-
-</span>
+![](https://github-readme-stats.vercel.app/api?username=oskaror&show_icons=true&count_private=true&hide=stars)
