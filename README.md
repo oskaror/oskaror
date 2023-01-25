@@ -1,5 +1,6 @@
 <h2 align="center">👋 Hi! I'm Oskar.</h2>
 <h3 align="center">A passionate Backend developer</h3>
+<h4 align="center">![](https://komarev.com/ghpvc/?username=oskaror)</h4>
 
 - 🏠 I’m currently living in **Warsaw, Poland** 🇵🇱
 - 👨‍💻 I’m currently working as a **Senior Ruby Developer**
