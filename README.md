@@ -13,17 +13,9 @@
 
 ### Technologies
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/ruby-lang/ruby-lang-icon.svg" alt="ruby" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="babel" width="30" height="30"/>  
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="vue" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/neo4j/neo4j-icon.svg" alt="neo4j" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="50" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" alt="kafka" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
-<img src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg" alt="circle" width="80" height="40"/>
+  
+[![My Skills](https://skillicons.dev/icons?i=ruby,elixir,go,graphql,postgres,redis,heroku,aws,grafana,kafka)](https://skillicons.dev)
+  
 </p>
 
 ### GitHub Stats
