@@ -3,12 +3,11 @@
 
 ![](https://komarev.com/ghpvc/?username=oskaror)
 
-- 🏠 I’m currently living in **Warsaw, Poland** 🇵🇱
-- 👨‍💻 I’m currently working as a **Senior Ruby Developer**
-- 🔭 I’m currently working on **something cool** 😉
-- 🌱 I’m currently learning **AWS deployment with Terraform and Ansible**
-- 💬 Ask me about **Ruby, web development, technology**
-- ⚡ Fun fact: **Semi Pro Paintball Player**
+- 🏠 I’m living in **Warsaw, Poland** 🇵🇱
+- 👨‍💻 I’m working as a **Senior Backend Developer**
+- 🌱 I’m learning **Elixir**
+- 💬 Ask me about **OOP vs FP, application design, board games**
+- ⚡ Fun fact: I won the **Polish Paintball Championships** in 2020 and 2024
 - 📫 How to reach me: [Mail](mailto:janusz.oskar@gmail.com), [Instagram](https://www.instagram.com/ruby.snippets/)
 
 ### Technologies
