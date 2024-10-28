@@ -8,6 +8,7 @@
 - 🌱 I’m learning **Elixir**
 - 💬 Ask me about **OOP vs FP, application design, board games**
 - ⚡ Fun fact: I won the **Polish Paintball Championships** in 2020 and 2024
+- 👨‍💻 Check my [Development manifest](https://www.notion.so/oskaror/Development-Manifest-5a8b044bcf864ca0a73c015f989d4135)
 - 📫 How to reach me: [Mail](mailto:janusz.oskar@gmail.com), [LinkedIn](https://www.linkedin.com/in/oskarjanusz/), [Instagram](https://www.instagram.com/ruby.snippets/)
 
 ### Technologies
