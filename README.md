@@ -8,7 +8,7 @@
 - 🌱 I’m learning **Elixir**
 - 💬 Ask me about **OOP vs FP, application design, board games**
 - ⚡ Fun fact: I won the **Polish Paintball Championships** in 2020 and 2024
-- 📫 How to reach me: [Mail](mailto:janusz.oskar@gmail.com), [Instagram](https://www.instagram.com/ruby.snippets/)
+- 📫 How to reach me: [Mail](mailto:janusz.oskar@gmail.com), [LinkedIn](https://www.linkedin.com/in/oskarjanusz/), [Instagram](https://www.instagram.com/ruby.snippets/)
 
 ### Technologies
 <p align="left">
