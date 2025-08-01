@@ -1,25 +1,12 @@
 <h2 align="center">👋 Hi! I'm Oskar.</h2>
-<h3 align="center">A passionate Backend developer</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
-![](https://komarev.com/ghpvc/?username=oskaror)
+I’m a passionate Backend Developer with over 11 years of experience building scalable, user-focused products using Ruby, Elixir and modern architectures like microservices, domain-driven design, and event-driven systems. All this while spending my free time on pursuing other tech oriented interests and sport. My journey blends a passion for technology with a continuous drive for self-improvement:
 
-- 🏠 I’m living in **Warsaw, Poland** 🇵🇱
-- 👨‍💻 I’m working as a **Senior Backend Developer**
-- 🌱 I’m learning **Elixir**
-- 💬 Ask me about **OOP vs FP, application design, board games**
-- ⚡ Fun fact: I won the **Polish Paintball Championships** in 2020 and 2024
-- 📫 How to reach me: [Mail](mailto:janusz.oskar@gmail.com), [LinkedIn](https://www.linkedin.com/in/oskarjanusz/), [Instagram](https://www.instagram.com/ruby.snippets/)
-
-### Technologies
-<p align="left">
-  
-[![My Skills](https://skillicons.dev/icons?i=ruby,elixir,go,graphql,postgres,redis,heroku,aws,grafana,kafka)](https://skillicons.dev)
-  
-</p>
-
-
-### Gists
-[![Gist Card](https://github-readme-stats-mu-kohl-11.vercel.app/api/gist?id=f318a26d31a773e02dbe68e833bc4ca8)](https://gist.github.com/oskaror/f318a26d31a773e02dbe68e833bc4ca8/)
-
-### GitHub Stats
-![](https://github-readme-stats-mu-kohl-11.vercel.app/api?username=oskaror&show_icons=true&count_private=true&hide=stars&rank_icon=github)
+- 🚀 **Products Enthusiast**: I love building thoughtful, user-focused products that solve real problems.
+- 🤖 **AI Explorer**: Exploring the intersection of AI and app development, I create projects that push the boundaries of user experiences.
+- 🏆 **Paintball Player**: I enjoy paintball for the adrenaline, team work and strategy — it keeps my mind sharp and competitive.
+ <br/>
+ 
+**Facts about me** <br/>
+🧑‍🤝‍🧑 Husband of my beautiful wife 🏆 Two-time Polish Paintball Champion 🇵🇱 Three-time Polish National Paintball Team player 🧑‍🎓 Student of the Polish-Japanese Academy of Information Technology 📄 Certified in Cisco – CCNA Discovery and Novell - Server Administration
