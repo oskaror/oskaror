@@ -8,5 +8,5 @@ I’m a passionate Backend Developer with over 11 years of experience building s
 - 🏆 **Paintball Player**: I enjoy paintball for the adrenaline, team work and strategy — it keeps my mind sharp and competitive.
  <br/>
  
-**Facts about me** <br/>
+**Things i'm proud of** <br/>
 🧑‍🤝‍🧑 Husband of my beautiful wife 🏆 Two-time Polish Paintball Champion 🇵🇱 Three-time Polish National Paintball Team player 🧑‍🎓 Student of the Polish-Japanese Academy of Information Technology 📄 Certified in Cisco – CCNA Discovery and Novell - Server Administration
