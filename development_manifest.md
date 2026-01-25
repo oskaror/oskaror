@@ -9,23 +9,19 @@
     - Create new features that are **easy to remove**
     - Be consistent
     - Follow "scout" rule → https://deviq.com/principles/boy-scout-rule
-    - Track and resolve any internal technical debt issues
+    - Continuously track and reduce technical debt
 
-2. **General data model plan**
-    - Data model always can be discussed. Always discuss before adding something that is missing in the data model
+2. **Plan your work**
+    - Always discuss the data model before adding new entities or attributes
+    - Before every major change, prepare an RFC document
     - Implement it step by step (table by table, column by column)
     - Separate business logic and DB migration into separate PRs
     - Do not create unnecessary tables and columns that are not required in a current moment of time
-    - De-normalize schema with the PG materialized views → https://github.com/scenic-views/scenic
-    - Use Postgres foreign keys → https://thoughtbot.com/blog/referential-integrity-with-foreign-keys
-    - Use Postgres Enums → https://github.com/bibendi/activerecord-postgres_enum
     - Avoid exposing primary sequential `ID` at `API` level
     - Use `uid` column as `ULID` format → https://github.com/rafaelsales/ulid
     - GraphQL query for collection must always return nodes field as future pagination should be allowed
     - For classes use formal naming with suffixes: `FooType`, `BarService`, `BazMutation`
-    - Use `rails credentials:edit --environment ...` (development/test/staging/production) for managing secrets
-    - All money values must be in cents (!)
-    - Follow the https://wiki.postgresql.org/wiki/Don't_Do_This
+    - Keep domain language consistent between code, DB and API
 
 3. **TDD is the boss**
     - Keep coverage close to 100%
@@ -37,18 +33,42 @@
     - Split large test file to smaller with context _suffix. Like `items_query_spec.rb + items_qudery_filter_spec.rb + items_query_pagination_spec.rb`, etc.
     - Use built-in custom matchers for dry specs
     - Carefully use shared examples: good naming, the minimum amount of params, subject-related checks
-    
-4. **Be nice**
+
+5. **SQL**
+    - Always use database transactions for operations that modify multiple records
+    - Avoid paginating records using OFFSET - use cursor-based pagination (WHERE id > last_id) instead
+    - Use database constraints (NOT NULL, UNIQUE, CHECK) at the database level, not just in application code
+    - Always add rollback logic for destructive migrations
+    - Monitor and optimize slow queries using *EXPLAIN ANALYZE* 
+    - De-normalize schema with the PG materialized views → https://github.com/scenic-views/scenic
+    - Use Postgres Enums → https://github.com/bibendi/activerecord-postgres_enum
+    - Use database-level locking (SELECT FOR UPDATE) when dealing with race conditions
+    - Use database-level unique constraints instead of application-level uniqueness checks for critical data
+    - Follow the https://wiki.postgresql.org/wiki/Don't_Do_This
+
+6. **Use microservices wisely**
+    - Each microservice should own its database - avoid shared databases between services
+    - Implement retry logic with exponential backoff for transient failures
+    - Use distributed tracing to track requests across service boundaries
+    - Design services around business capabilities, not technical layers
+    - Prefer asynchronous communication (events) over synchronous when possible
+    - Use RPC for synchronous communication between microservicese
+    - Implement health checks and readiness probes for all services
+    - Make sure that kafka consumers are idempotent
+
+7. **Be nice**
     - Use static code analyzers like https://github.com/rubocop/rubocop or https://github.com/standardrb/standard
-    - Don't turn off the rubocop rules for no reason
+    - Don't turn off the analyzers rules for no reason
     - Use emoji (like https://github.com/bgian/slack-emojis) to share progress updates and respond to posts
     - Write self-descriptive commit messages with answers on "what and why"
     - Open PR's and ask about feedback. Do not push with force. Squash commits on merge.
     - Do not shy to comment your code with local README.md file
     - Be kind to create new tips and docs
-    - Use the C4 model for creating architecture diagrams →  https://c4model.com/
+    - Refactor continuously, not in big-bang rewrites
 
-### Extra **resources**
 
+**Extra resources**
 - https://37signals.com/00
 - https://deviq.com/
+- https://www.writesoftwarewell.com/
+- https://blog.bytebytego.com/
