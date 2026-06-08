@@ -9,4 +9,8 @@ I’m a passionate Backend Developer with over 11 years of experience building s
  <br/>
  
 **Things I'm proud of:** <br/>
-🧑‍🤝‍🧑 Husband of my beautiful wife 🏆 [Two-time Polish Paintball Champion in 2020 & 2024](https://www.instagram.com/ala_warsaw_pb) 🇵🇱 [Three-time Polish National Paintball Team player](https://www.facebook.com/paintballowereprezentacjepolski) 🧑‍🎓 [Student of the Polish-Japanese Academy of Information Technology](https://pja.edu.pl/) 📄 Certified in [Cisco – CCNA Discovery](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html) and [Novell - Server Administration](https://www.suse.com/training/exam/)
+- 🧑‍🤝‍🧑 Husband of my beautiful wife
+- 🏆 [Two-time Polish Paintball Champion in 2020 & 2024](https://www.instagram.com/ala_warsaw_pb)
+- 🇵🇱 [Three-time Polish National Paintball Team player](https://www.facebook.com/paintballowereprezentacjepolski)
+- 🧑‍🎓 [Student of the Polish-Japanese Academy of Information Technology](https://pja.edu.pl/)
+- 📄 Certified in [Cisco – CCNA Discovery](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/enterprise/ccna/index.html) and [Novell - Server Administration](https://www.suse.com/training/exam/)
